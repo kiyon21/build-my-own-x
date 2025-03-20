@@ -43,7 +43,7 @@ A simple register-based virtual machine implemented in C with:
 - Memory addressing
 - Program counter and instruction decoding
 
-[View Virtual Machine Code →](./virtual-machine/)
+[View Virtual Machine Code →](./vm/)
 
 ## Roadmap
 
