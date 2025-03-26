@@ -46,6 +46,14 @@ int isEmpty(StackNode *top){
     return top == NULL;
 }
 
+int *return_top_two(StackNode *top){
+    int result[2];
+    result[0] = top->data;
+    result[1] = top->next->data;
+
+    return result;
+}
+
 
 
 
